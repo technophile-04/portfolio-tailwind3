@@ -10,7 +10,7 @@ const Card = () => {
 					<img
 						src={PrfilePic}
 						alt="myImage"
-						className="w-32 drop-shadow-xl shadow-lg rounded-full p-0.5 shadow-orange-500/50"
+						className="w-32 drop-shadow-xl shadow-lg rounded-full shadow-orange-500/50"
 					/>
 				</div>
 				<div className="mt-5 text-center">
