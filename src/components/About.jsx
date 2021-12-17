@@ -11,13 +11,13 @@ const About = () => {
 			</p>
 			<p className="text-center mt-3 text-lg md:text-xl text-gray-400 max-w-3xl mx-auto sm:mt-4">
 				I'm a passionate Web and Blockchain developer, I like learning how new
-				technologies function and to implement them.Apart from I like to play
-				football ⚽️
+				technologies function and to implement them.Apart from tech I like to
+				play football ⚽️
 			</p>
 
 			<ScrollTo selector="#tech">
 				<div className="p-20 mt-8">
-					<FaChevronDown className="mx-auto text-3xl md:text-4xl animate-bounce text-blue-600 " />
+					<FaChevronDown className="mx-auto text-3xl md:text-4xl animate-bounce text-orange-500 " />
 				</div>
 			</ScrollTo>
 		</div>
