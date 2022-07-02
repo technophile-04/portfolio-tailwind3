@@ -13,13 +13,13 @@ const Footer = () => {
 					<FaGithub />
 				</a>
 				<a
-					href="https://github.com/technophile-04"
+					href="https://www.linkedin.com/in/shiv-bhonde-b23a1a205/"
 					className="text-xl hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300 inline-block p-1 text-blue-500 mr-3"
 				>
 					<FaLinkedin className="rounded-lg" />
 				</a>
 				<a
-					href="https://github.com/technophile-04"
+					href="https://www.instagram.com/shiv_bhonde/"
 					className="text-xl hover:bg-pink-500 rounded-full hover:text-white transition-colors duration-300 inline-block p-1 text-pink-500 mr-3"
 				>
 					<AiFillInstagram />

@@ -16,7 +16,7 @@ const Card = () => {
 				<div className="mt-5 text-center">
 					<p className="text-xl sm:text-2xl font-semibold">Shiv Bhonde</p>
 					<p className="text-xs text-center text-gray-500 inline-block pb-3 pt-2 px-5  sm:text-base font-semibold  border-b-2 border-gray-200">
-						React / Blockchain Developer
+						Full Stack Web Developer | Web3.0 Developer
 					</p>
 					<div className="mt-3 flex justify-evenly">
 						<a
